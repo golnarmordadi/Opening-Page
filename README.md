@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Hakimeh Mordadi</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
 <!--
 **hakimehmordadi/hakimehmordadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
