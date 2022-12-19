@@ -37,8 +37,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://www.linkedin.com/in/h-mordadi/"><img align="center" alt="hakimemordadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hakimehmordadi&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
-  <a href="https://www.linkedin.com/in/h-mordadi/"><img align="center" height="192px" alt="hakimehmordadi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimehmordadi&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+    <a href="https://www.linkedin.com/in/h-mordadi/"><img align="center" alt="hakimemordadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hakimehmordadi&show_icons=true&count_private=true&theme=highcontrast" height="192px" width="500"/></a>
+  <a href="https://www.linkedin.com/in/h-mordadi/"><img align="center" height="192px" width="500" alt="hakimehmordadi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimehmordadi&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
   <br/>
   </p>
  
