@@ -28,6 +28,9 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/> 
+  <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
+  <img src="https://img.icons8.com/nolan/64/api-settings.png"/>
+  
 </p>
 
 </br>
