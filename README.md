@@ -1,17 +1,15 @@
 
 <h1 align="center">Hakimeh Mordadi</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
-<!--About-->
-<!-- GitHub Readme Streak Stats-->
+
 ## 🔥 Streak stats
 <p align="center">
   <a href="https://github.com/hakimehmordadi">
     <img  alt="hakimehmordadi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimehmordadi&theme=highcontrast&hide_border=true"/>
   </a>
-  
 </p>
 </br>
-<!--Skills-->
+
 ## 🚀 Languages and Tools:
 <p align="left"> <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
@@ -31,10 +29,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/> 
 </p>
+
 </br>
-<p align="left">
-</p>
-<!--Github Stats-->
+
 ## 📊 Github stats
 <details open=""> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -52,6 +49,6 @@
 <p align="center">
 <a href="mailto:golnarmordadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/h-mordadi/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href ="https://www.linkedin.com/in/h-mordadi/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href ="https://github.com/hakimehmordadi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/40732882520"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
