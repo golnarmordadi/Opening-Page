@@ -1,11 +1,11 @@
 
-<h1 align="center">Hakimeh Mordadi</h1>
+<h1 align="center">Golnar Mordadi</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
 ## 🔥 Streak stats
 <p align="center">
-  <a href="https://github.com/hakimehmordadi">
-    <img  alt="hakimehmordadi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimehmordadi&theme=highcontrast&hide_border=true"/>
+  <a href="https://github.com/golnarmordadi">
+    <img  alt="golnarmordadi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=golnarmordadi&theme=highcontrast&hide_border=true"/>
   </a>
 </p>
 </br>
@@ -40,8 +40,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a><img align="center" alt="hakimemordadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hakimehmordadi&show_icons=true&hide_border=true" height="192px" width="400"/></a>
-  <a><img align="center" height="192px" width="400" alt="hakimehmordadi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimehmordadi&langs_count=20&layout=compact&hide_border=true" /></a>
+    <a><img align="center" alt="hakimemordadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=golnarmordadi&show_icons=true&hide_border=true" height="192px" width="400"/></a>
+  <a><img align="center" height="192px" width="400" alt="golnarmordadi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golnarmordadi&langs_count=20&layout=compact&hide_border=true" /></a>
   <br/>
   </p>
  
@@ -54,6 +54,6 @@
 <a href="https://medium.com/@golnarmordadi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/golnarmordadi?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/h-mordadi/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href ="https://github.com/hakimehmordadi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href ="https://github.com/golnarmordadi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/905010584543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
